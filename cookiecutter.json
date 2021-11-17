@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Example Dataset",
+  "dataset_description": "This is an dataset for templating other datasets.",
+  "initial_version": "{% now 'utc', '%Y.%m.0' %}",
+  "_extensions": [
+    "cookiecutter.extensions.SlugifyExtension",
+    "jinja2_time.TimeExtension"
+  ]
+}
