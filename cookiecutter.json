@@ -1,6 +1,6 @@
 {
   "dataset_name": "Example Dataset",
-  "dataset_description": "This is an dataset for templating other datasets.",
+  "dataset_description": "This is a dataset for templating other datasets.",
   "initial_version": "{% now 'utc', '%Y.%m.0' %}",
   "_extensions": [
     "cookiecutter.extensions.SlugifyExtension",
