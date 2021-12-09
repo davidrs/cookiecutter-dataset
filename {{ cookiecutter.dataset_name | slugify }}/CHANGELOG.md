@@ -1,4 +1,4 @@
-# CHANGELOG
+# Changelog
 
 ## {{cookiecutter.initial_version}}
 
